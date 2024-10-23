@@ -1,6 +1,6 @@
 ---
+icon: person-from-portal
 description: Why do we need to deploy ZenML?
-icon: octopus-deploy
 ---
 
 # Deploying ZenML

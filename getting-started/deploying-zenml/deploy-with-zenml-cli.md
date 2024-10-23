@@ -1,5 +1,6 @@
 ---
 description: Deploying ZenML on cloud using the ZenML CLI.
+icon: head-side-goggles
 ---
 
 # Deploy with ZenML CLI
